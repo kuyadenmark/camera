@@ -1,0 +1,8 @@
+{
+  "name": "Container Inspector",
+  "description": "Local-only container inspection app for capturing video and photos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

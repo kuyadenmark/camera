@@ -1,0 +1,5 @@
+{
+	"appId": "com.example.containerinspector",
+	"appName": "Container Inspector",
+	"webDir": "dist"
+}
